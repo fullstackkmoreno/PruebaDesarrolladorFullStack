@@ -1,5 +1,7 @@
 # PruebaDesarrolladorFullStack
 
+# Pasos para ejecutar prueba
+
 - get the two projects from repository back-end and front-end
 - service localhost: go to folder from back-end and open project at visual studio
 - now go menu build/ build solution
