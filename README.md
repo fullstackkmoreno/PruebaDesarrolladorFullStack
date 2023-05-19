@@ -34,6 +34,7 @@ BODY:
 ]
 GET: http://www.PruebaDesarrolloFullStack.somee.com/BaseEspacial/Kenobi
 POST: http://www.PruebaDesarrolloFullStack.somee.com/BaseEspacial/Kenobi
+BODY:
   {
     "nombre": "kenobi",
     "distancia": 100.0,
